@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CRUD Entity .NET 6.0.props" />
+</Project>
